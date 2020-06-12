@@ -1,20 +1,21 @@
 # Table of Contents
 1. [Example](#example)
-2. [Example2](#example2)
+2. [Second Example](#example2)
 3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+4. [Fourth Example](#fourth-example)
 
 
-
-## Welcome to GitHub Pages
+## This is the Cover Page
 
 You can use the [editor on GitHub](https://github.com/jbaker217/jbaker217.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### This is a nested item on the cover page
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+#### And this is nested even further
 
 ```markdown
 Syntax highlighted code block

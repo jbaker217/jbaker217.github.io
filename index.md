@@ -1,5 +1,5 @@
 # Table of Contents
-1. [Example](#example)
+1. [Example](#This is the cover page)
 2. [Second Example](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-example)

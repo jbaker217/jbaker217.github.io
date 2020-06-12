@@ -1,5 +1,5 @@
 # Table of Contents
-1. [Example](#This is the cover page)
+1. [Example](#Example)
 2. [Second Example](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-example)
@@ -16,6 +16,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 #### And this is nested even further
+
+##### And this is to go even further beyond
 
 ```markdown
 Syntax highlighted code block

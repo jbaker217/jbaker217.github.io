@@ -41,6 +41,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+![Image](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+
 [Link](url) and ![Image](src)
 ```
 

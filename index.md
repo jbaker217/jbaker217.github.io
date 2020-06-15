@@ -38,6 +38,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+  1. Nested List
+    - Nested further
 
 **Bold** and _Italic_ and `Code` text
 
